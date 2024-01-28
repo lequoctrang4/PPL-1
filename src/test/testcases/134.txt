@@ -1,0 +1,9 @@
+
+            main: function void (){
+                n : integer = 100;
+                do {
+                    printString("Check out something new");
+                    i = i + 1;
+                } while (i < 100);
+           }
+        

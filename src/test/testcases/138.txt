@@ -1,0 +1,9 @@
+
+            check: function integer (out x:integer, data:string){
+                a : integer;
+                b : string;
+           }
+           main: function void () {
+                check(1,2+3*4);
+           }
+        

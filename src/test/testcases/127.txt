@@ -1,0 +1,7 @@
+
+            main: function void () {
+                array1: array [123,1_2_3] of string;
+                array2 = array1;
+                printString(array2,array1);
+            }
+        

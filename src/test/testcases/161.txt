@@ -1,0 +1,6 @@
+
+            check: function integer(x:integer,){
+                arr : array [2,3] of float;
+                arr [0,1] = 1_2_3_4_5;
+           }
+        

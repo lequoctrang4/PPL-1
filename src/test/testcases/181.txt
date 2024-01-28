@@ -1,0 +1,6 @@
+
+            main : function void() {
+                array1 : array [5] of integer = {1,2,3,4,5};
+                if ( true && (array[1] < array[2])) printString("alo");
+            }
+        

@@ -1,0 +1,9 @@
+
+            main: function void () {
+                arr: array [6] of integer;
+                arr[0] = 2;
+                arr[3] = 4;
+                arr[1] = a[1 + a[4]/123];
+                printInteger(arr[1]);
+            }
+        

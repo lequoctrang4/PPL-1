@@ -1,0 +1,2 @@
+ main : function void(){
+a, b: array [5] of int; 

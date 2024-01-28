@@ -1,0 +1,7 @@
+
+            main: function void () {
+                str ,str1: string = "how","abc	123";
+                anltr_4 = str :: str1;
+                printString(a);
+            }
+        

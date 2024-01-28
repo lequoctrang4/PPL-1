@@ -1,0 +1,6 @@
+
+            main : function void() {
+                x : integer = 5;
+                x = x + 1 / 123_456;
+            }
+        

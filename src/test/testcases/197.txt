@@ -1,0 +1,6 @@
+
+            main: function void () {
+                check == 3_4_2.123e-245;
+                printFloat(delta);
+            }
+        

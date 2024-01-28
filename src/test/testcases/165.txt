@@ -1,0 +1,5 @@
+
+            check: function string () {
+                break;
+            }
+        

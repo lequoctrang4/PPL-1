@@ -1,0 +1,9 @@
+
+            abc: function integer(n: integer){
+                return n;
+            }
+            main: function void () {
+                check: integer = abc(abc+abc(3)));
+                printInteger(check);
+            }
+        

@@ -1,0 +1,7 @@
+
+            huy : integer;
+            lam : float;
+            dat : string;
+            thao: boolean; 
+            thang: auto;
+        

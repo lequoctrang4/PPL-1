@@ -1,0 +1,3 @@
+
+            check : string = "Just the way you are";
+        

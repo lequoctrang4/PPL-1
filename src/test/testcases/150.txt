@@ -1,0 +1,6 @@
+
+            main: function void () {
+                hello: integer = (string);
+                printInteger(hello);
+            }
+        

@@ -1,0 +1,8 @@
+
+           main: function void (){
+                n : integer = 100;
+                for ( i = 1 , i < 100, i + 1){
+                    printString("Iloveyou");
+                }
+           }
+        

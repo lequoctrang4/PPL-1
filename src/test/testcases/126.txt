@@ -1,0 +1,6 @@
+
+            main: function void () {
+                Lam : string = "I love you";
+                printString(Lam);
+            }
+        

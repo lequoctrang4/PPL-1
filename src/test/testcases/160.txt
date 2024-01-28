@@ -1,0 +1,6 @@
+
+            test: function integer(inherit arr : array [2,3] of float){
+                arr : array [2,3] of float;
+                arr [0,1] = 1*2+1.2-1;
+           }
+        

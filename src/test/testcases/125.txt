@@ -1,0 +1,6 @@
+
+            main: function void () {
+                function : string = "I love you";
+                printString(function);
+            }
+        

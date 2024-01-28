@@ -1,0 +1,1 @@
+ a, b : auto [5] of integer= {1,2,3}; 

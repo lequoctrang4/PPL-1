@@ -1,0 +1,9 @@
+
+            var : integer = 1_23;
+            def : function integer (out var:integer){
+                return var + 1;
+            }
+            main : function void () {
+                print(def());
+            }
+        

@@ -1,0 +1,14 @@
+
+            huy: integer;
+            sum: function integer(n: integer){
+                if (n == 0) return 1;
+                else return n + fact(n-1);
+            }
+            checkout: function void (out n: integer){
+                printInt(n);
+            }
+            main: function void () {
+                result = sum(2);
+                checkout(n);
+            }
+        

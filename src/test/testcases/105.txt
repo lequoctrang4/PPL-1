@@ -1,0 +1,9 @@
+
+            a,b,c : integer;
+            d,e,f : float;
+            h,j,k : string;
+            i,o,p : boolean;
+            q,w,e : auto;
+            array1,array2 : array [1_3_4,45] of string;
+
+        

@@ -1,0 +1,10 @@
+
+        main: function void (){
+                n : integer = 100;
+                do {
+                    print("Check out something new");
+                    i = i + 1;
+                    if ( i == 50 ) continue;
+                } while (i < 100);
+           }
+        

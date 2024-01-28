@@ -1,0 +1,5 @@
+
+            123_: function void (n: integer){
+                return n%10;
+            }
+        

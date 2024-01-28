@@ -1,0 +1,13 @@
+
+            main: function void(inherit out a : integer, b : float) inherit a{
+                    while (true){
+                        
+                    }
+                    if(true){a:integer = 1;} a:integer = 1;
+                    while (true){
+                        a = 1;
+                        a : integer = 1;
+                        a = c*c + b;
+                    }
+                }
+        

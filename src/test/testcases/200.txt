@@ -1,0 +1,7 @@
+
+            main: function void () {
+                t: float;
+                readFloat(s);
+                printFloat(t/123);
+            }
+        

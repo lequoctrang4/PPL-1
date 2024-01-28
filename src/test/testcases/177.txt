@@ -1,0 +1,7 @@
+
+            main: function void () {
+                arr,arr: string = "huy";
+                printString(arr);
+                printString(arr);
+            }
+        

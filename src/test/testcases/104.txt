@@ -1,0 +1,6 @@
+
+            test_array1: array [11,9] of integer;
+            test_array2: array [18,2] of string;
+            test_array3: array [11,1_1] of boolean;
+            test_array4: array [1_4_5,2] of float;
+        
